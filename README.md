@@ -90,6 +90,3 @@ Parametric sweep performed on all four geometric parameters (±5% from baseline,
 
 ![Sweep Patch Length](results/s11_sweep_patch_length.png)
 
----
-
-## Repository Structure
