@@ -1,5 +1,5 @@
 # patch-hnotch-antenna
-# H-Notch Microstrip Patch Antenna @ 2.4 GHz
+# H-Notch Microstrip Patch Antenna
 
 Design and parametric analysis of a coaxial-fed H-notch microstrip patch antenna
 resonating at 2.4 GHz (WiFi band), implemented in MATLAB Antenna Toolbox.
